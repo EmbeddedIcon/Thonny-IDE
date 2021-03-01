@@ -1,0 +1,10 @@
+
+Using Pip
+pip3 install thonny
+
+Using Installer Script
+ bash <(curl -s https://thonny.org/installer-for-linux)
+
+Using Package Manager
+sudo apt install thonny   [On Debian/Ubuntu]
+$ sudo dnf install thonny   [On CentOS/RHEL & Fedora]
